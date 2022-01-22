@@ -1,0 +1,2 @@
+BOT	DISCOUNT	CATEGORY	URL
+BOT1	25	TABLET	https://www.mediamarkt.com.tr/tr/category/_tabletler-639520.html
