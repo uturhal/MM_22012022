@@ -36,7 +36,7 @@ BOT1	25	AGIZ_BAKIM	https://www.mediamarkt.com.tr/tr/category/_a%C4%9F%C4%B1z-bak
 BOT6	25	MONITOR	https://www.mediamarkt.com.tr/tr/category/_monit%C3%B6r-798011.html
 BOT6	25	YAZICI_TARAYICI	https://www.mediamarkt.com.tr/tr/category/_yaz%C4%B1c%C4%B1-taray%C4%B1c%C4%B1-797535.html
 BOT1	25	TV_SES_AKSESUAR	https://www.mediamarkt.com.tr/tr/category/_tv-ses-aksesuarlar%C4%B1-640522.html
-BOT6	25	VIDEO_KAMERA	https://www.mediamarkt.com.tr/tr/category/_video-kamera-465687.html
+BOT6	25	VIDEO_KAMERA	https://www.mediamarkt.com.tr/tr/category/_fotoğraf-video-811019.html
 BOT5	25	FIRIN	https://www.mediamarkt.com.tr/tr/category/_f%C4%B1r%C4%B1n-678525.html
 BOT1	25	ANNE_BEBEK	https://www.mediamarkt.com.tr/tr/category/_anne-bebek-%C3%BCr%C3%BCnleri-636026.html
 BOT1	25	SAGLIK	https://www.mediamarkt.com.tr/tr/category/_sa%C4%9Fl%C4%B1k-%C3%BCr%C3%BCnleri-465833.html
